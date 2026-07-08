@@ -4,7 +4,7 @@ A React practice project that renders a grid of job listing cards using **reusab
 
 ## Preview
 
-![Job Cards Preview](./assets/preview.png)
+![Job Cards Preview](./assets/Screenshot%202026-07-08%20231606.png)
 
 ## Features
 
