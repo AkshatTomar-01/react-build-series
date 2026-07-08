@@ -1,6 +1,6 @@
 # React Build Series
 
-A curated collection of React mini-projects I built while **teaching React** to my students. Each project is a hands-on example designed to make a specific concept click — not just theory, but something you can see running in the browser.
+A curated collection of React mini-projects I built while **teaching React** to someone. Each project is a hands-on example designed to make a specific concept click — not just theory, but something you can see running in the browser.
 
 ## Projects
 
@@ -14,7 +14,7 @@ A curated collection of React mini-projects I built while **teaching React** to 
 
 I teach React the way it should be — by building real UIs, not toy counters.
 
-Every project in this series is tied to a concept. Students don't just read about props, they build a card UI where props drive everything. They don't just hear about state, they build something that breaks without it. The goal is *understanding*, not completion.
+Every project in this series is tied to a concept. The goal is *understanding*, not completion.
 
 Each project is:
 - **Self-contained** — no cross-dependencies, runs on its own
@@ -48,4 +48,4 @@ npm run dev
 
 ## Author
 
-**Akshat Tomar** — React developer and educator, teaching frontend the practical way.
+**Akshat Tomar** 
