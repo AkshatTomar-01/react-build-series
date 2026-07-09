@@ -7,6 +7,7 @@ A curated collection of React mini-projects I built while **teaching React** to 
 | # | Project | Concepts Taught | Live |
 |---|---------|-----------------|------|
 | 01 | [Job Cards UI](./proj1-Cards) | Components, Props, Tailwind CSS | — |
+| 02 | [Counter](./proj2-Counter) | useState, Event Handling | — |
 
 > More projects coming soon as the course progresses.
 
@@ -48,4 +49,4 @@ npm run dev
 
 ## Author
 
-**Akshat Tomar** 
+**Akshat Tomar**
