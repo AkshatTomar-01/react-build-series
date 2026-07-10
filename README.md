@@ -8,6 +8,7 @@ A curated collection of React mini-projects I built while **teaching React** to 
 |---|---------|-----------------|------|
 | 01 | [Job Cards UI](./proj1-Cards) | Components, Props, Tailwind CSS | — |
 | 02 | [Counter](./proj2-Counter) | useState, Event Handling | — |
+| 03 | [Student Directory](./proj3-StudentDirectory) | Props, Array Rendering, Dark Mode Toggle | — |
 
 > More projects coming soon as the course progresses.
 
