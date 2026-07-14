@@ -2,10 +2,6 @@
 
 A real-time GitHub profile lookup built to teach **`useEffect`** — how and when React runs side effects, and how to fetch data from an external API in response to state changes.
 
-## Preview
-
-![GitHub User Finder Preview](./src/assets/preview.png)
-
 ## What This Teaches
 
 - What `useEffect` is and why it exists
